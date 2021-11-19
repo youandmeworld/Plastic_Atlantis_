@@ -129,7 +129,7 @@ cursor: none;
 /* 절벽 */
 .cliff-1{
   position:absolute;
-  right:0;
+  right:0%;
   top: 18%; 
   margin: 0; 
   overflow: hidden;
@@ -137,7 +137,7 @@ cursor: none;
 }
 .cliff-2{
   position:absolute;
-  left:0; 
+  left:0%; 
   top: 57.5%; 
   margin: 0; 
   overflow: hidden; 
